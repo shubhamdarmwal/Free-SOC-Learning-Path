@@ -46,8 +46,8 @@ Phase 8 → CTF Capstone Challenges
 |---|------|-------------------|------| ----- |
 | 1 | 🛡️ Defensive Security Intro | Big picture of blue team — Threat Intel, SOC, DFIR, Malware Analysis, SIEM | [🔗 Visit](https://tryhackme.com/room/defensivesecurityintroqW) | [📝](notes/phase-1/defensive-security-intro.md) |
 | 2 | 🔵 SOC Role in Blue Team | SOC structure, L1/L2/L3 roles, analyst responsibilities | [🔗 Visit](https://tryhackme.com/room/socroleinblueteam) | [📝](notes/phase-1/soc-role-in-blue-team.md) |
-| 3 | 🧾 Intro to Logs | What logs are, types, formats, where they come from | [🔗 Visit](https://tryhackme.com/room/introtologs) |
-| 4 | 🧠 SOC Analyst Basics | SOC L1 alert reporting, how to write an alert report | [🔗 Visit](https://tryhackme.com/room/socl1alertreporting) |
+| 3 | 🧾 Intro to Logs | What logs are, types, formats, where they come from | [🔗 Visit](https://tryhackme.com/room/introtologs) | [📝](notes/phase-1/intro-to-logs.md) |
+| 4 | 🧠 SOC Analyst Basics | SOC L1 alert reporting, how to write an alert report | [🔗 Visit](https://tryhackme.com/room/socl1alertreporting) | [📝](notes/phase-1/soc-l1-alert-reporting.md) |
 
 ---
 
