@@ -57,14 +57,15 @@ Phase 8 → CTF Capstone Challenges
 
 | # | Room | What You'll Learn | Link |
 |---|------|-------------------|------|
-| 5 | 📊 Introduction to SIEM | SIEM concepts, log aggregation, alert correlation | [🔗 Visit](https://tryhackme.com/room/introtosiem) |
-| 6 | 🖥️ Introduction to EDR | Endpoint Detection & Response fundamentals | [🔗 Visit](https://tryhackme.com/room/introductiontoedrs) |
-| 7 | 🛠️ Splunk 101 | Splunk basics, search interface, dashboards | [🔗 Visit](https://tryhackme.com/room/splunk101) |
-| 8 | 🧠 Splunk: Exploring SPL | Search Processing Language, filters, stats | [🔗 Visit](https://tryhackme.com/room/splunkexploringspl) |
-| 9 | 🧿 Wazuh | Wazuh SIEM — open source SOC stack | [🔗 Visit](https://tryhackme.com/room/wazuhct) |
-| 10 | 📊 ELK 101 | Investigating with ELK (Elasticsearch, Logstash, Kibana) | [🔗 Visit](https://tryhackme.com/room/investigatingwithelk101) |
-| 11 | 🧮 ELK: Servidae | Log analysis deep-dive in ELK | [🔗 Visit](https://tryhackme.com/room/servidae) |
-| 12 | 📊 MS Sentinel | Microsoft Sentinel cloud SIEM | [🔗 Visit](https://tryhackme.com/room/mssentineljustlooking) |
+| 5 | 📊 Introduction to SIEM | SIEM concepts, log aggregation, alert correlation | [🔗 Visit](https://tryhackme.com/room/introtosiem) | [📝](notes/phase-2/intro-to-siem.md) |
+
+| 6 | 🖥️ Introduction to EDR | Endpoint Detection & Response fundamentals | [🔗 Visit](https://tryhackme.com/room/introductiontoedrs) | [📝](notes/phase-2/intro-to-edr.md) |
+| 7 | 🛠️ Splunk 101 | Splunk basics, search interface, dashboards | [🔗 Visit](https://tryhackme.com/room/splunk101) | [📝](notes/phase-2/splunk-101.md) |
+| 8 | 🧠 Splunk: Exploring SPL | Search Processing Language, filters, stats | [🔗 Visit](https://tryhackme.com/room/splunkexploringspl) | [📝](notes/phase-2/splunk-exploring-spl.md) |
+| 9 | 🧿 Wazuh | Wazuh SIEM — open source SOC stack | [🔗 Visit](https://tryhackme.com/room/wazuhct) | [📝](notes/phase-2/wazuh.md) |
+| 10 | 📊 ELK 101 | Investigating with ELK (Elasticsearch, Logstash, Kibana) | [🔗 Visit](https://tryhackme.com/room/investigatingwithelk101) | [📝](notes/phase-2/elk-101.md) |
+| 11 | 🧮 ELK: Servidae | Log analysis deep-dive in ELK | [🔗 Visit](https://tryhackme.com/room/servidae) | [📝](notes/phase-2/elk-servidae.md) |
+| 12 | 📊 MS Sentinel | Microsoft Sentinel cloud SIEM | [🔗 Visit](https://tryhackme.com/room/mssentineljustlooking) | [📝](notes/phase-2/ms-sentinel.md) |
 
 ---
 
