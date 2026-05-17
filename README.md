@@ -58,7 +58,6 @@ Phase 8 → CTF Capstone Challenges
 | # | Room | What You'll Learn | Link | Notes |
 |---|------|-------------------|------| ----- |
 | 5 | 📊 Introduction to SIEM | SIEM concepts, log aggregation, alert correlation | [🔗 Visit](https://tryhackme.com/room/introtosiem) | [📝](notes/phase-2/intro-to-siem.md) |
-
 | 6 | 🖥️ Introduction to EDR | Endpoint Detection & Response fundamentals | [🔗 Visit](https://tryhackme.com/room/introductiontoedrs) | [📝](notes/phase-2/intro-to-edr.md) |
 | 7 | 🛠️ Splunk 101 | Splunk basics, search interface, dashboards | [🔗 Visit](https://tryhackme.com/room/splunk101) | [📝](notes/phase-2/splunk-101.md) |
 | 8 | 🧠 Splunk: Exploring SPL | Search Processing Language, filters, stats | [🔗 Visit](https://tryhackme.com/room/splunkexploringspl) | [📝](notes/phase-2/splunk-exploring-spl.md) |
