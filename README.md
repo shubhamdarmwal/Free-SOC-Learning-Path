@@ -55,8 +55,8 @@ Phase 8 → CTF Capstone Challenges
 
 > **Goal:** Get hands-on with the tools every SOC analyst uses daily — Splunk, ELK, Wazuh, and Sentinel.
 
-| # | Room | What You'll Learn | Link |
-|---|------|-------------------|------|
+| # | Room | What You'll Learn | Link | Notes |
+|---|------|-------------------|------| ----- |
 | 5 | 📊 Introduction to SIEM | SIEM concepts, log aggregation, alert correlation | [🔗 Visit](https://tryhackme.com/room/introtosiem) | [📝](notes/phase-2/intro-to-siem.md) |
 
 | 6 | 🖥️ Introduction to EDR | Endpoint Detection & Response fundamentals | [🔗 Visit](https://tryhackme.com/room/introductiontoedrs) | [📝](notes/phase-2/intro-to-edr.md) |
