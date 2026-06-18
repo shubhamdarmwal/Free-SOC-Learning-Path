@@ -64,7 +64,6 @@ Phase 8 → CTF Capstone Challenges
 | 9 | 🧿 Wazuh | Wazuh SIEM — open source SOC stack | [🔗 Visit](https://tryhackme.com/room/wazuhct) | [📝](notes/phase-2/wazuh.md) |
 | 10 | 📊 ELK 101 | Investigating with ELK (Elasticsearch, Logstash, Kibana) | [🔗 Visit](https://tryhackme.com/room/investigatingwithelk101) | [📝](notes/phase-2/elk-101.md) |
 | 11 | 🧮 ELK: Servidae | Log analysis deep-dive in ELK | [🔗 Visit](https://tryhackme.com/room/servidae) | [📝](notes/phase-2/elk-servidae.md) |
-| 12 | 📊 MS Sentinel | Microsoft Sentinel cloud SIEM | [🔗 Visit](https://tryhackme.com/room/mssentineljustlooking) | [📝](notes/phase-2/ms-sentinel.md) |
 
 ---
 
