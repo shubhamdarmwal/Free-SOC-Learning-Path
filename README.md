@@ -75,8 +75,8 @@ Phase 8 → CTF Capstone Challenges
 
 | # | Room | What You'll Learn | Link | Notes |
 |---|------|-------------------|------| ----- |
-| 12 | 🪟 Windows Event Logs | Event Viewer, key Event IDs, log categories | [🔗 Visit](https://tryhackme.com/room/windowseventlogs) | [📝](notes/phase-3/windows-event-logs.md) |
-| 13 | 🪵 Windows Log Analysis | Windows logging for SOC — Sysmon, audit policies | [🔗 Visit](https://tryhackme.com/room/windowsloggingforsoc) | [📝](notes/phase-3/windows-log-analysis.md) |
+| 12 | 📂 Windows Event Logs | Event Viewer, key Event IDs, log categories | [🔗 Visit](https://tryhackme.com/room/windowseventlogs) | [📝](notes/phase-3/windows-event-logs.md) |
+| 13 | 🔍 Windows Log Analysis | Windows logging for SOC — Sysmon, audit policies | [🔗 Visit](https://tryhackme.com/room/windowsloggingforsoc) | [📝](notes/phase-3/windows-log-analysis.md) |
 | 14 | 📂 Windows Threat Detection | Detecting attacks in Windows logs | [🔗 Visit](https://tryhackme.com/room/windowsthreatdetection1) | [📝](notes/phase-3/windows-threat-detection.md) |
 | 15 | 👨‍💻 Investigating Windows | Full Windows forensics investigation challenge | [🔗 Visit](https://tryhackme.com/room/investigatingwindows) | [📝](notes/phase-3/investigating-windows.md) |
 | 16 | 🔍 Investigating Windows 2.0 | Advanced Windows log forensics | [🔗 Visit](https://tryhackme.com/room/investigatingwindows2) | [📝](notes/phase-3/investigating-windows-2.md) |
