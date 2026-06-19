@@ -25,8 +25,8 @@ Phase 8 → CTF Capstone Challenges
 
 | Phase | Topic | Rooms | Status |
 |-------|-------|-------|--------|
-| 1 | Foundations | 4 | ⬜ |
-| 2 | Core SOC Tools | 8 | ⬜ |
+| 1 | Foundations | 4 | ✅ |
+| 2 | Core SOC Tools | 7 | ✅ |
 | 3 | Windows & Linux Logs | 9 | ⬜ |
 | 4 | Network Traffic Analysis | 6 | ⬜ |
 | 5 | Threat Intel & Detection | 5 | ⬜ |
@@ -73,22 +73,22 @@ Phase 8 → CTF Capstone Challenges
 
 ### Windows
 
-| # | Room | What You'll Learn | Link |
-|---|------|-------------------|------|
-| 13 | 🪟 Windows Event Logs | Event Viewer, key Event IDs, log categories | [🔗 Visit](https://tryhackme.com/room/windowseventlogs) |
-| 14 | 🪵 Windows Log Analysis | Windows logging for SOC — Sysmon, audit policies | [🔗 Visit](https://tryhackme.com/room/windowsloggingforsoc) |
-| 15 | 📂 Windows Threat Detection | Detecting attacks in Windows logs | [🔗 Visit](https://tryhackme.com/room/windowsthreatdetection1) |
-| 16 | 👨‍💻 Investigating Windows | Full Windows forensics investigation challenge | [🔗 Visit](https://tryhackme.com/room/investigatingwindows) |
-| 17 | 🔍 Investigating Windows 2.0 | Advanced Windows log forensics | [🔗 Visit](https://tryhackme.com/room/investigatingwindows2) |
-| 18 | 💻 Osquery | Query endpoints like a database for EDR | [🔗 Visit](https://tryhackme.com/room/osqueryf8) |
+| # | Room | What You'll Learn | Link | Notes |
+|---|------|-------------------|------| ----- |
+| 12 | 🪟 Windows Event Logs | Event Viewer, key Event IDs, log categories | [🔗 Visit](https://tryhackme.com/room/windowseventlogs) | [📝](notes/phase-3/windows-event-logs.md) |
+| 13 | 🪵 Windows Log Analysis | Windows logging for SOC — Sysmon, audit policies | [🔗 Visit](https://tryhackme.com/room/windowsloggingforsoc) | [📝](notes/phase-3/windows-log-analysis.md) |
+| 14 | 📂 Windows Threat Detection | Detecting attacks in Windows logs | [🔗 Visit](https://tryhackme.com/room/windowsthreatdetection1) | [📝](notes/phase-3/windows-threat-detection.md) |
+| 15 | 👨‍💻 Investigating Windows | Full Windows forensics investigation challenge | [🔗 Visit](https://tryhackme.com/room/investigatingwindows) | [📝](notes/phase-3/investigating-windows.md) |
+| 16 | 🔍 Investigating Windows 2.0 | Advanced Windows log forensics | [🔗 Visit](https://tryhackme.com/room/investigatingwindows2) | [📝](notes/phase-3/investigating-windows-2.md) |
+| 17 | 💻 Osquery | Query endpoints like a database for EDR | [🔗 Visit](https://tryhackme.com/room/osqueryf8) | [📝](notes/phase-3/osquery.md) |
 
 ### Linux
 
 | # | Room | What You'll Learn | Link |
 |---|------|-------------------|------|
-| 19 | 🐧 Linux Logging for SOC | Auth logs, syslog, journald, audit logs | [🔗 Visit](https://tryhackme.com/room/linuxloggingforsoc) |
-| 20 | 🐧 Linux Threat Detection | Detecting attacker activity in Linux logs | [🔗 Visit](https://tryhackme.com/room/linuxthreatdetection1) |
-| 21 | 🐧 Linux Server Forensics | Full Linux forensics investigation | [🔗 Visit](https://tryhackme.com/room/linuxserverforensics) |
+| 18 | 🐧 Linux Logging for SOC | Auth logs, syslog, journald, audit logs | [🔗 Visit](https://tryhackme.com/room/linuxloggingforsoc) |
+| 19 | 🐧 Linux Threat Detection | Detecting attacker activity in Linux logs | [🔗 Visit](https://tryhackme.com/room/linuxthreatdetection1) |
+| 20 | 🐧 Linux Server Forensics | Full Linux forensics investigation | [🔗 Visit](https://tryhackme.com/room/linuxserverforensics) |
 
 ---
 
@@ -98,12 +98,12 @@ Phase 8 → CTF Capstone Challenges
 
 | # | Room | What You'll Learn | Link |
 |---|------|-------------------|------|
-| 22 | 📶 Network Traffic Basics | Protocols, packet structure, traffic types | [🔗 Visit](https://tryhackme.com/room/networktrafficbasics) |
-| 23 | 🔒 Network Security Essentials | Network monitoring, baselines, protection | [🔗 Visit](https://tryhackme.com/room/networksecurityessentials) |
-| 24 | 🌐 Wireshark | Wireshark basics — capture, filter, analyze | [🔗 Visit](https://tryhackme.com/room/wiresharkthebasics) |
-| 25 | ❄️ TShark | Command-line Wireshark for SOC pipelines | [🔗 Visit](https://tryhackme.com/room/tshark) |
-| 26 | 🧾 NetworkMiner | Passive network forensics tool | [🔗 Visit](https://tryhackme.com/room/networkminer) |
-| 27 | 🌐 Event Horizon | Wireshark + file analysis challenge | [🔗 Visit](https://tryhackme.com/room/eventhorizonroom) |
+| 21 | 📶 Network Traffic Basics | Protocols, packet structure, traffic types | [🔗 Visit](https://tryhackme.com/room/networktrafficbasics) |
+| 22 | 🔒 Network Security Essentials | Network monitoring, baselines, protection | [🔗 Visit](https://tryhackme.com/room/networksecurityessentials) |
+| 23 | 🌐 Wireshark | Wireshark basics — capture, filter, analyze | [🔗 Visit](https://tryhackme.com/room/wiresharkthebasics) |
+| 24 | ❄️ TShark | Command-line Wireshark for SOC pipelines | [🔗 Visit](https://tryhackme.com/room/tshark) |
+| 25 | 🧾 NetworkMiner | Passive network forensics tool | [🔗 Visit](https://tryhackme.com/room/networkminer) |
+| 26 | 🌐 Event Horizon | Wireshark + file analysis challenge | [🔗 Visit](https://tryhackme.com/room/eventhorizonroom) |
 
 ---
 
@@ -113,11 +113,11 @@ Phase 8 → CTF Capstone Challenges
 
 | # | Room | What You'll Learn | Link |
 |---|------|-------------------|------|
-| 28 | 🗂️ File and Hash Threat Intel | Using file hashes as IOCs, VirusTotal, threat intel platforms | [🔗 Visit](https://tryhackme.com/room/fileandhashthreatintel) |
-| 29 | 🔬 YARA | Writing YARA rules for malware detection | [🔗 Visit](https://tryhackme.com/room/yara) |
-| 30 | 🧠 YARA Advanced | Threat hunting with YARA — real-world rule writing | [🔗 Visit](https://tryhackme.com/room/threathuntingwithyara) |
-| 31 | 🕵️ Threat Hunting Without Logs | Hunting for threats when logs are missing | [🔗 Visit](https://tryhackme.com/room/loglesshunt) |
-| 32 | ⚔️ APT Detection (Volt Typhoon) | Detect a real nation-state APT campaign | [🔗 Visit](https://tryhackme.com/room/volttyphoon) |
+| 27 | 🗂️ File and Hash Threat Intel | Using file hashes as IOCs, VirusTotal, threat intel platforms | [🔗 Visit](https://tryhackme.com/room/fileandhashthreatintel) |
+| 28 | 🔬 YARA | Writing YARA rules for malware detection | [🔗 Visit](https://tryhackme.com/room/yara) |
+| 29 | 🧠 YARA Advanced | Threat hunting with YARA — real-world rule writing | [🔗 Visit](https://tryhackme.com/room/threathuntingwithyara) |
+| 30 | 🕵️ Threat Hunting Without Logs | Hunting for threats when logs are missing | [🔗 Visit](https://tryhackme.com/room/loglesshunt) |
+| 31 | ⚔️ APT Detection (Volt Typhoon) | Detect a real nation-state APT campaign | [🔗 Visit](https://tryhackme.com/room/volttyphoon) |
 
 ---
 
@@ -127,12 +127,12 @@ Phase 8 → CTF Capstone Challenges
 
 | # | Room | What You'll Learn | Link |
 |---|------|-------------------|------|
-| 33 | 📘 IR Playbooks | How to follow and use IR playbooks | [🔗 Visit](https://tryhackme.com/room/irplaybooks) |
-| 34 | 🔎 Identification & Scoping | Scoping an incident before diving in | [🔗 Visit](https://tryhackme.com/room/identificationandscoping) |
-| 35 | ⚡ Detecting Web Attacks | Identifying web-based attacks in logs | [🔗 Visit](https://tryhackme.com/room/detectingwebattacks) |
-| 36 | 🛡️ AppSec IR | Application security incident response | [🔗 Visit](https://tryhackme.com/room/appsecir) |
-| 37 | 🍯 Initial Access Pot | Investigate attacker initial access via honeynet | [🔗 Visit](https://tryhackme.com/room/initialaccesspot) |
-| 38 | 📡 Overpass 2 — Hacked | Full IR via log analysis on a compromised box | [🔗 Visit](https://tryhackme.com/room/overpass2hacked) |
+| 32 | 📘 IR Playbooks | How to follow and use IR playbooks | [🔗 Visit](https://tryhackme.com/room/irplaybooks) |
+| 33 | 🔎 Identification & Scoping | Scoping an incident before diving in | [🔗 Visit](https://tryhackme.com/room/identificationandscoping) |
+| 34 | ⚡ Detecting Web Attacks | Identifying web-based attacks in logs | [🔗 Visit](https://tryhackme.com/room/detectingwebattacks) |
+| 35 | 🛡️ AppSec IR | Application security incident response | [🔗 Visit](https://tryhackme.com/room/appsecir) |
+| 36 | 🍯 Initial Access Pot | Investigate attacker initial access via honeynet | [🔗 Visit](https://tryhackme.com/room/initialaccesspot) |
+| 37 | 📡 Overpass 2 — Hacked | Full IR via log analysis on a compromised box | [🔗 Visit](https://tryhackme.com/room/overpass2hacked) |
 
 ---
 
@@ -142,8 +142,8 @@ Phase 8 → CTF Capstone Challenges
 
 | # | Room | What You'll Learn | Link |
 |---|------|-------------------|------|
-| 39 | 🧠 Memory Forensics | RAM dump analysis fundamentals | [🔗 Visit](https://tryhackme.com/room/memoryforensics) |
-| 40 | 🧊 Volatility | Volatility framework — processes, network, artifacts | [🔗 Visit](https://tryhackme.com/room/volatility) |
+| 38 | 🧠 Memory Forensics | RAM dump analysis fundamentals | [🔗 Visit](https://tryhackme.com/room/memoryforensics) |
+| 39 | 🧊 Volatility | Volatility framework — processes, network, artifacts | [🔗 Visit](https://tryhackme.com/room/volatility) |
 
 ---
 
@@ -153,11 +153,11 @@ Phase 8 → CTF Capstone Challenges
 
 | # | Room | What You'll Learn | Link |
 |---|------|-------------------|------|
-| 41 | 📑 SOC Alert Triage | Full SOC L1 alert triage simulation | [🔗 Visit](https://tryhackme.com/room/socl1alerttriage) |
-| 42 | 🎯 First Shift CTF | Your first SOC shift — multi-skill challenge | [🔗 Visit](https://tryhackme.com/room/first-shift-ctf) |
-| 43 | 🕳️ h4cked | PCAP investigation challenge | [🔗 Visit](https://tryhackme.com/room/h4cked) |
-| 44 | 🕷️ Carnage | Advanced traffic analysis challenge | [🔗 Visit](https://tryhackme.com/room/carnage) |
-| 45 | 📌 CCT2019 | PCAP forensics competition challenge | [🔗 Visit](https://tryhackme.com/room/cct2019) |
+| 40 | 📑 SOC Alert Triage | Full SOC L1 alert triage simulation | [🔗 Visit](https://tryhackme.com/room/socl1alerttriage) |
+| 41 | 🎯 First Shift CTF | Your first SOC shift — multi-skill challenge | [🔗 Visit](https://tryhackme.com/room/first-shift-ctf) |
+| 42 | 🕳️ h4cked | PCAP investigation challenge | [🔗 Visit](https://tryhackme.com/room/h4cked) |
+| 43 | 🕷️ Carnage | Advanced traffic analysis challenge | [🔗 Visit](https://tryhackme.com/room/carnage) |
+| 44 | 📌 CCT2019 | PCAP forensics competition challenge | [🔗 Visit](https://tryhackme.com/room/cct2019) |
 
 > **Bonus:** [🔗 Chaining Vulnerabilities](https://tryhackme.com/room/chainingvulnerabilitiesZp) — Understand exploit chains from a defender's perspective. Great if you're coming from a bug bounty / red team background.
 > 
