@@ -84,11 +84,11 @@ Phase 8 → CTF Capstone Challenges
 
 ### Linux
 
-| # | Room | What You'll Learn | Link |
-|---|------|-------------------|------|
-| 18 | 🐧 Linux Logging for SOC | Auth logs, syslog, journald, audit logs | [🔗 Visit](https://tryhackme.com/room/linuxloggingforsoc) |
-| 19 | 🐧 Linux Threat Detection | Detecting attacker activity in Linux logs | [🔗 Visit](https://tryhackme.com/room/linuxthreatdetection1) |
-| 20 | 🐧 Linux Server Forensics | Full Linux forensics investigation | [🔗 Visit](https://tryhackme.com/room/linuxserverforensics) |
+| # | Room | What You'll Learn | Link | Notes |
+|---|------|-------------------|------| ----- |
+| 18 | 🐧 Linux Logging for SOC | Auth logs, syslog, journald, audit logs | [🔗 Visit](https://tryhackme.com/room/linuxloggingforsoc) | [📝](notes/phase-3/linux-logginf-for-soc.md) |
+| 19 | 🐧 Linux Threat Detection | Detecting attacker activity in Linux logs | [🔗 Visit](https://tryhackme.com/room/linuxthreatdetection1) | [📝](notes/phase-3/linux-threat-detection.md) |[📝](notes/phase-3/windows-event-logs.md) |
+| 20 | 🐧 Linux Server Forensics | Full Linux forensics investigation | [🔗 Visit](https://tryhackme.com/room/linuxserverforensics) | [📝](notes/phase-3/linux-server-forensics.md) |
 
 ---
 
@@ -96,14 +96,14 @@ Phase 8 → CTF Capstone Challenges
 
 > **Goal:** Investigate network-level activity — PCAPs, protocols, anomalies. Essential for alert triage.
 
-| # | Room | What You'll Learn | Link |
-|---|------|-------------------|------|
-| 21 | 📶 Network Traffic Basics | Protocols, packet structure, traffic types | [🔗 Visit](https://tryhackme.com/room/networktrafficbasics) |
-| 22 | 🔒 Network Security Essentials | Network monitoring, baselines, protection | [🔗 Visit](https://tryhackme.com/room/networksecurityessentials) |
-| 23 | 🌐 Wireshark | Wireshark basics — capture, filter, analyze | [🔗 Visit](https://tryhackme.com/room/wiresharkthebasics) |
-| 24 | ❄️ TShark | Command-line Wireshark for SOC pipelines | [🔗 Visit](https://tryhackme.com/room/tshark) |
-| 25 | 🧾 NetworkMiner | Passive network forensics tool | [🔗 Visit](https://tryhackme.com/room/networkminer) |
-| 26 | 🌐 Event Horizon | Wireshark + file analysis challenge | [🔗 Visit](https://tryhackme.com/room/eventhorizonroom) |
+| # | Room | What You'll Learn | Link | Notes |
+|---|------|-------------------|------| ----- |
+| 21 | 📶 Network Traffic Basics | Protocols, packet structure, traffic types | [🔗 Visit](https://tryhackme.com/room/networktrafficbasics) | [📝](notes/phase-4/network-traffic-basics.md) |
+| 22 | 🔒 Network Security Essentials | Network monitoring, baselines, protection | [🔗 Visit](https://tryhackme.com/room/networksecurityessentials) | [📝](notes/phase-4/network-security-essentials.md) |
+| 23 | 🌐 Wireshark | Wireshark basics — capture, filter, analyze | [🔗 Visit](https://tryhackme.com/room/wiresharkthebasics) | [📝](notes/phase-4/wireshark-basics.md) |
+| 24 | ❄️ TShark | Command-line Wireshark for SOC pipelines | [🔗 Visit](https://tryhackme.com/room/tshark) | [📝](notes/phase-4/tshark.md) |
+| 25 | 🧾 NetworkMiner | Passive network forensics tool | [🔗 Visit](https://tryhackme.com/room/networkminer) | [📝](notes/phase-4/networkminer.md) |
+| 26 | 🌐 Event Horizon | Wireshark + file analysis challenge | [🔗 Visit](https://tryhackme.com/room/eventhorizonroom) | [📝](notes/phase-4/event-horizon.md) |
 
 ---
 
