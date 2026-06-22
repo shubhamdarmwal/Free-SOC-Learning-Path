@@ -27,7 +27,7 @@ Phase 8 → CTF Capstone Challenges
 |-------|-------|-------|--------|
 | 1 | Foundations | 4 | ✅ |
 | 2 | Core SOC Tools | 7 | ✅ |
-| 3 | Windows & Linux Logs | 9 | ⬜ |
+| 3 | Windows & Linux Logs | 9 | On Hold |
 | 4 | Network Traffic Analysis | 6 | ⬜ |
 | 5 | Threat Intel & Detection | 5 | ⬜ |
 | 6 | Incident Response | 6 | ⬜ |
