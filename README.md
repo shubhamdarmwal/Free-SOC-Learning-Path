@@ -111,13 +111,13 @@ Phase 8 → CTF Capstone Challenges
 
 > **Goal:** Learn how to identify, classify, and hunt for threats using IOCs, YARA, and threat intel feeds.
 
-| # | Room | What You'll Learn | Link |
-|---|------|-------------------|------|
-| 27 | 🗂️ File and Hash Threat Intel | Using file hashes as IOCs, VirusTotal, threat intel platforms | [🔗 Visit](https://tryhackme.com/room/fileandhashthreatintel) |
-| 28 | 🔬 YARA | Writing YARA rules for malware detection | [🔗 Visit](https://tryhackme.com/room/yara) |
-| 29 | 🧠 YARA Advanced | Threat hunting with YARA — real-world rule writing | [🔗 Visit](https://tryhackme.com/room/threathuntingwithyara) |
-| 30 | 🕵️ Threat Hunting Without Logs | Hunting for threats when logs are missing | [🔗 Visit](https://tryhackme.com/room/loglesshunt) |
-| 31 | ⚔️ APT Detection (Volt Typhoon) | Detect a real nation-state APT campaign | [🔗 Visit](https://tryhackme.com/room/volttyphoon) |
+| # | Room | What You'll Learn | Link | Notes |
+|---|------|-------------------|------| ----- |
+| 27 | 🗂️ File and Hash Threat Intel | Using file hashes as IOCs, VirusTotal, threat intel platforms | [🔗 Visit](https://tryhackme.com/room/fileandhashthreatintel) | [📝](notes/phase-5/file-and-hash-threat-intel.md) |
+| 28 | 🔬 YARA | Writing YARA rules for malware detection | [🔗 Visit](https://tryhackme.com/room/yara) | [📝](notes/phase-5/yara.md) |
+| 29 | 🧠 YARA Advanced | Threat hunting with YARA — real-world rule writing | [🔗 Visit](https://tryhackme.com/room/threathuntingwithyara) | [📝](notes/phase-5/threat-hunting-with-yara.md) |
+| 30 | 🕵️ Threat Hunting Without Logs | Hunting for threats when logs are missing | [🔗 Visit](https://tryhackme.com/room/loglesshunt) | [📝](notes/phase-5/logless-hunt.md) |
+| 31 | ⚔️ APT Detection (Volt Typhoon) | Detect a real nation-state APT campaign | [🔗 Visit](https://tryhackme.com/room/volttyphoon) | [📝](notes/phase-5/volt-typhoon.md) |
 
 ---
 
