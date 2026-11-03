@@ -6,7 +6,7 @@ I'm working through this path myself and writing notes in my own words as I go. 
 
 > ⚠️ TryHackMe occasionally paywalls rooms without notice. Verify free access before starting.
 
-> 🛠️ **Status:** Phases 1–2 complete. Phase 3 in progress. I work full-time, so I update this repo as time allows, at a pace of roughly one room per week.
+> 🛠️ **Status:** Phases 1, 2, and 4 completed. Phase 3 is suspended and Phase 5 is in progress. I work full-time, so I update this repo as time allows, at a pace of roughly one room per week.
 
 ---
 
@@ -27,7 +27,7 @@ Phase 8 → CTF Capstone Challenges
 
 ## ✅ Progress Tracker
 
-**Overall: 11 of 44 rooms completed**
+**Overall: 19 of 44 rooms completed**
 
 | Phase | Topic                       | Rooms | Status         |
 |-------|-----------------------------|-------|----------------|
@@ -83,7 +83,7 @@ Phase 8 → CTF Capstone Challenges
 
 | #  | Room                         | What You'll Learn                                | Link                                                           | Notes |
 |----|------------------------------|--------------------------------------------------|----------------------------------------------------------------|-------|
-| 12 | 📂 Windows Event Logs        | Event Viewer, key Event IDs, log categories      | [🔗 Visit](https://tryhackme.com/room/windowseventlogs)        | —     |
+| 12 | 📂 Windows Event Logs        | Event Viewer, key Event IDs, log categories      | [🔗 Visit](https://tryhackme.com/room/windowseventlogs)        | [📝](notes/phase-3/windows-event-logs.md)     |
 | 13 | 🔍 Windows Logging for SOC   | Windows logging for SOC: Sysmon, audit policies  | [🔗 Visit](https://tryhackme.com/room/windowsloggingforsoc)    | —     |
 | 14 | 📂 Windows Threat Detection  | Detecting attacks in Windows logs                | [🔗 Visit](https://tryhackme.com/room/windowsthreatdetection1) | —     |
 | 15 | 👨‍💻 Investigating Windows   | Full Windows forensics investigation challenge   | [🔗 Visit](https://tryhackme.com/room/investigatingwindows)    | —     |
