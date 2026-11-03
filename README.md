@@ -33,9 +33,9 @@ Phase 8 → CTF Capstone Challenges
 |-------|-----------------------------|-------|----------------|
 | 1     | Foundations                 | 4     | ✅ Complete     |
 | 2     | Core SOC Tools              | 7     | ✅ Complete     |
-| 3     | Windows & Linux Logs        | 9     | 🚧 In progress |
-| 4     | Network Traffic Analysis    | 6     | ⬜ Not started  |
-| 5     | Threat Intel & Detection    | 5     | ⬜ Not started  |
+| 3     | Windows & Linux Logs        | 9     | 🚧 Suspended    |
+| 4     | Network Traffic Analysis    | 6     | ✅ Complete     |
+| 5     | Threat Intel & Detection    | 5     | ⬜ Started      |
 | 6     | Incident Response           | 6     | ⬜ Not started  |
 | 7     | Memory & Advanced Forensics | 2     | ⬜ Not started  |
 | 8     | CTF Capstone Challenges     | 5     | ⬜ Not started  |
@@ -75,7 +75,7 @@ Phase 8 → CTF Capstone Challenges
 
 ---
 
-## 🟡 Phase 3: Windows & Linux Log Analysis 🚧 *(in progress)*
+## 🟡 Phase 3: Windows & Linux Log Analysis 🚧 *(suspended for now)*
 
 > **Goal:** Learn to read and investigate OS-level logs, the bread and butter of SOC L1 work.
 
@@ -106,11 +106,11 @@ Phase 8 → CTF Capstone Challenges
 
 | #  | Room                           | What You'll Learn                           | Link                                                             | Notes |
 |----|--------------------------------|---------------------------------------------|------------------------------------------------------------------|-------|
-| 21 | 📶 Network Traffic Basics      | Protocols, packet structure, traffic types  | [🔗 Visit](https://tryhackme.com/room/networktrafficbasics)      | —     |
-| 22 | 🔒 Network Security Essentials | Network monitoring, baselines, protection   | [🔗 Visit](https://tryhackme.com/room/networksecurityessentials) | —     |
-| 23 | 🌐 Wireshark                   | Wireshark basics: capture, filter, analyze  | [🔗 Visit](https://tryhackme.com/room/wiresharkthebasics)        | —     |
-| 24 | ❄️ TShark                      | Command-line Wireshark for SOC pipelines    | [🔗 Visit](https://tryhackme.com/room/tshark)                    | —     |
-| 25 | 🧾 NetworkMiner                | Passive network forensics tool              | [🔗 Visit](https://tryhackme.com/room/networkminer)              | —     |
+| 21 | 📶 Network Traffic Basics      | Protocols, packet structure, traffic types  | [🔗 Visit](https://tryhackme.com/room/networktrafficbasics)      | [📝](notes/phase-4/network-traffic-basics.md)     |
+| 22 | 🔒 Network Security Essentials | Network monitoring, baselines, protection   | [🔗 Visit](https://tryhackme.com/room/networksecurityessentials) | [📝](notes/phase-4/network-security-essentials.md)     |
+| 23 | 🌐 Wireshark                   | Wireshark basics: capture, filter, analyze  | [🔗 Visit](https://tryhackme.com/room/wiresharkthebasics)        | [📝](notes/phase-4/wireshark-basics.md)     |
+| 24 | ❄️ TShark                      | Command-line Wireshark for SOC pipelines    | [🔗 Visit](https://tryhackme.com/room/tshark)                    | [📝](notes/phase-4/tshark.md)    |
+| 25 | 🧾 NetworkMiner                | Passive network forensics tool              | [🔗 Visit](https://tryhackme.com/room/networkminer)              | [📝](notes/phase-4/networkminer.md)     |
 | 26 | 🌐 Event Horizon               | Wireshark + file analysis challenge         | [🔗 Visit](https://tryhackme.com/room/eventhorizonroom)          | —     |
 
 ---
@@ -121,8 +121,8 @@ Phase 8 → CTF Capstone Challenges
 
 | #  | Room                            | What You'll Learn                                             | Link                                                          | Notes |
 |----|---------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|-------|
-| 27 | 🗂️ File and Hash Threat Intel   | Using file hashes as IOCs, VirusTotal, threat intel platforms | [🔗 Visit](https://tryhackme.com/room/fileandhashthreatintel) | —     |
-| 28 | 🔬 YARA                         | Writing YARA rules for malware detection                      | [🔗 Visit](https://tryhackme.com/room/yara)                   | —     |
+| 27 | 🗂️ File and Hash Threat Intel   | Using file hashes as IOCs, VirusTotal, threat intel platforms | [🔗 Visit](https://tryhackme.com/room/fileandhashthreatintel) | [📝](notes/phase-5/file-and-hash-threat-intel.md)     |
+| 28 | 🔬 YARA                         | Writing YARA rules for malware detection                      | [🔗 Visit](https://tryhackme.com/room/yara)                   | [📝](notes/phase-5/yara.md)     |
 | 29 | 🧠 YARA Advanced                | Threat hunting with YARA: real-world rule writing             | [🔗 Visit](https://tryhackme.com/room/threathuntingwithyara)  | —     |
 | 30 | 🕵️ Threat Hunting Without Logs  | Hunting for threats when logs are missing                     | [🔗 Visit](https://tryhackme.com/room/loglesshunt)            | —     |
 | 31 | ⚔️ APT Detection (Volt Typhoon) | Detect a real nation-state APT campaign                       | [🔗 Visit](https://tryhackme.com/room/volttyphoon)            | —     |
